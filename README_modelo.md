@@ -1,17 +1,25 @@
 # Dados do Aluno
 
-- **Nome:**  
+- **Nome:**
+  
+#### João vieira
+
 - **Número:**  
+
+#### a22605442
+
 - **Turma:**  
+  
+#### turno 1
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+meti os meus dados.
 
 ---
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+estou lixado pro teste
