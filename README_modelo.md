@@ -26,4 +26,8 @@ estou lixado pro teste
 
 ---
 
-##ALTERAÇÃO MUITO DIFERENTE PARA O EXERCICIO 3 SIGMA
+## ALTERAÇÃO MUITO DIFERENTE PARA O EXERCICIO 3 SIGMA
+
+---
+
+## alteração para o exercicio 3
